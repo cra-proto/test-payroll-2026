@@ -48,47 +48,51 @@
     "destination": "/test-payroll-2026/en/revenue-agency/services/tax/businesses/topics/payroll/whats-new-payroll.html"
   },
   {
+    "origin": "https://www.canada.ca/fr.html",
+    "destination": "/test-payroll-2026/fr.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots.html",
+    "destination": "/test-payroll-2026/fr/services/impots.html"
+  },
+  {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html",
     "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie.html"
-  },
-  {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires/recevoir-correspondance-sur-retenues.html",
     "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires/recevoir-correspondance-sur-retenues.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html",
-    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html"
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/determiner-relation-employeur-payeur.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/ouvrir-gerer-compte-retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/obtenir-renseignements-nouvel-employe.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/calculer-retenues.html"
   },
   {
     "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/versement-retenues-a-source.html",
     "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/versement-retenues-a-source.html"
   },
   {
-    "origin": "https://www.canada.ca/fr/services/impots.html",
-    "destination": "/test-payroll-2026/fr/services/impots.html"
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/produire-declarations-renseignements-feuillets-sommaires.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/observation-execution-retenue-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html",
+    "destination": "/test-payroll-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie/quoi-neuf-retenues-paie.html"
   }
 ]
