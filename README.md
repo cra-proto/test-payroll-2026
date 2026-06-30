@@ -31,18 +31,18 @@ Add information on how to manage your repo here.
 ## Information Architecture
 ```mermaid
 flowchart TD;
-    node1(Untitled)
-    node2(Untitled)
-    node3(Untitled)
-    node4(Untitled)
-    node5(Untitled)
-    node6(Untitled)
-    node7(Untitled)
-    node8(Untitled)
-    node9(Untitled)
-    node10(Untitled)
-    node11(Untitled)
-    node12(Untitled)
+    node1(Canada.ca)
+    node2(Taxes)
+    node3(Payroll)
+    node4(Receiving payroll correspondence from the CRA)
+    node5(Determine the relationship with the employer or the payer)
+    node6(Open or manage a payroll account)
+    node7(Set up and manage employee payroll information)
+    node8(Calculate payroll deductions and contributions)
+    node9(Remit #40;pay#41; payroll deductions and contributions)
+    node10(File payroll information returns #40;slips and summaries#41;)
+    node11(Payroll compliance and enforcement)
+    node12(What's new and updated for payroll)
     node1 --> node2
     node2 --> node3
     node3 --> node4
